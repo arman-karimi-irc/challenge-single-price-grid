@@ -1,4 +1,5 @@
 @import "tailwindcss";
+
 @theme {
   --breakpoint-mobile: 375px;
   --breakpoint-desktop: 1440px;
