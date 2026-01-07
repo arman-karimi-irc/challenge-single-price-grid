@@ -1,6 +1,6 @@
 export default function Subscription() {
   return (
-    <div className="flex flex-col space-y-4 mb-6 text-white bg-teal-500">
+    <div className="flex flex-col space-y-4 text-white bg-teal-500">
       <span className="">Monthly Subscription</span>
       <div className="flex items-center space-x-3">
         <h1 className="text-4xl font-semibold">$29</h1>
