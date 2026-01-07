@@ -7,7 +7,7 @@ export default function JoinUs() {
       <h3 className="text-green-400 font-semibold">
         30-day, hassle-free money back guarantee
       </h3>
-      <p className="text-gray-500 leading-7">
+      <p className="text-gray-500 leading-7 text-sm">
         Gain access to our full library of tutorials along with expert code
         reviews. Perfect for any developers who are serious about honing their
         skills.
