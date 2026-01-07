@@ -1,6 +1,6 @@
 export default function JoinUs() {
   return (
-    <div className="flex flex-col space-y-5 mb-6">
+    <div className="flex flex-col space-y-5 mb-2">
       <h2 className="text-teal-500 font-semibold text-xl">
         Join our community
       </h2>
